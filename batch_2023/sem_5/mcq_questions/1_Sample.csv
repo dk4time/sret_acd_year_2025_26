@@ -1,0 +1,4 @@
+question,options[0],options[1],options[2],options[3],answer
+Which of the following is true about a constructor?,It can be inherited,It has a return type,It can be overloaded,It must be private,It can be overloaded
+Which concept allows different classes to respond to the same method call in their own way?,Encapsulation,Inheritance,Polymorphism,Abstraction,Polymorphism
+What is the default access modifier for class members?,public,protected,private,package-private (default),package-private (default)
